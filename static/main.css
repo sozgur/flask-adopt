@@ -1,0 +1,11 @@
+.pet-container {
+    display: grid;
+    line-height: normal;
+    column-gap: 20px;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.pet img {
+    width: 100%;
+    height: auto;
+}
